@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "compare": "cpp",
+        "cstdint": "cpp",
+        "format": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "span": "cpp",
+        "utility": "cpp",
+        "random": "cpp",
+        "cmath": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "sstream": "cpp"
+    }
+}
